@@ -119,4 +119,4 @@ Technology: gpdk180nm<br>
 <br>
 <br>
 <h2>IX. Conclusion</h2><br>
-The 5t differential amplifier is a fundamental building block in analog electronics, valued for its ability to accurately amplify differential signals while rejecting common-mode noise and maintaining stable operation
+The 5t differential amplifier is a fundamental building block in analog electronics, valued for its ability to accurately amplify differential signals while rejecting common-mode noise and maintaining stable operation.
