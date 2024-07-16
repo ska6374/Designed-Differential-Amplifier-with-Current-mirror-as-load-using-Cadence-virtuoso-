@@ -1,0 +1,1 @@
+# Designed-Differential-Amplifier-with-Current-mirror-as-load-using-Cadence-virtuoso-
