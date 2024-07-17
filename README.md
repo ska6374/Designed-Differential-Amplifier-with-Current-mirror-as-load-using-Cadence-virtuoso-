@@ -1,6 +1,6 @@
 # Designed Differential Amplifier with Current-mirror as load using Cadence virtuoso
 <br>
-<h2>I. Introduction</h2>
+<h2>I. Introduction :</h2>
 A differential amplifier is a type of amplifier that amplifies the difference between two input voltages but suppresses any voltage common to the two inputs.
 It is an analog circuit with two inputs Vin^+ and Vin^- and one output Vout, in which the output is ideally proportional to the difference between the two voltages:
 Vout = A(Vin^+  -  Vin^-),
