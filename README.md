@@ -57,13 +57,13 @@ Technology: gpdk180nm<br>
 <br>
 <br>
 <br>
-<h2>VI. Advantages</h2><br>
+<h2>VI. Advantages :</h2><br>
 1. Differential Amplifier has noise cancellation property.<br>
 2. Differential Amplifier can reduce external interference.<br>
 3. The nature of these amplifiers is linear.<br>
 4. These amplifiers help to increase CMRR(Common Mode Rejection Ratio) which further helps to avoid unwanted signal.<dr>
 
-<h2>VII. Schematic</h2><br>
+<h2>VII. Schematic :</h2><br>
 <br>
 
 
@@ -76,7 +76,7 @@ Technology: gpdk180nm<br>
 <br>
 <br>
 <br>
-<h2>VIII. Simulation</h2><br>
+<h2>VIII. Simulation :</h2><br>
 <br>
 <br>
 
@@ -110,7 +110,7 @@ Technology: gpdk180nm<br>
 <br>
 <br>
 <br>
-<h2>VIII. Layout</h2><br>
+<h2>VIII. Layout :</h2><br>
 <br>
 <br>
 
@@ -118,5 +118,5 @@ Technology: gpdk180nm<br>
 <br>
 <br>
 <br>
-<h2>IX. Conclusion</h2><br>
+<h2>IX. Conclusion :</h2><br>
 The 5t differential amplifier is a fundamental building block in analog electronics, valued for its ability to accurately amplify differential signals while rejecting common-mode noise and maintaining stable operation.
